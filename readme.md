@@ -11,5 +11,5 @@ npm run test
 
 #### How to run single test
 ```
-npm run test testcasename.js
+npm run test testcases_name.js
 ```
