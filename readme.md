@@ -1,6 +1,6 @@
 #### How to set up
 ```
-git clone https://github.com/robin-sitohang/automation-ui-ux.git
+git clone https://github.com/robin-sitohang/api_jest.git
 npm install
 ```
 
